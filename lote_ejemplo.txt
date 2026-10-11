@@ -1,0 +1,4 @@
+codigo;descripcion;cantidad;precio
+P001;Arroz 1 kg;20;4.50
+P002;Leche 1 L;12;5.20
+P003;Aceite 1 L;0;9.90
